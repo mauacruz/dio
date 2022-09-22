@@ -1,11 +1,9 @@
-# dio
-Repositorio para projetos da Plataforma DIO
+# DIO
+## Repositorio para projetos da Plataforma DIO
 
-Neste repositório ficarão os projetos desenvolvidos em Cursos/Bootcamps da plataforma Digital Innovation One.
+Neste repositório ficarão os projetos desenvolvidos em Cursos/Bootcamps da plataforma [Digital Innovation One.](https://web.digitalinnovation.one/home)
 
-https://web.digitalinnovation.one/home
-
-DIO.Bank
+### DIO.Bank
 
 Nesta pasta está a implementação para o desafio Criando uma aplicação de transferências bancárias com .NET.
 
