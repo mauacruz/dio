@@ -3,7 +3,7 @@
 
 Neste repositório ficarão os projetos desenvolvidos em Cursos/Bootcamps da plataforma [Digital Innovation One.](https://web.digitalinnovation.one/home)
 
-Para informações detalhadas consulte o [Wiki](https://github.com/mauacruz/dio.wiki.git) :)
+Para informações detalhadas consulte o [Wiki](https://github.com/mauacruz/dio/wiki) :)
 
 ## Sobre mim
 
