@@ -33,7 +33,7 @@ Além disso, como lazer gosto de:
 
 E como contatos:
 
-email: mauacruz@gmail.com
-
-twitter: @nanonpira
+email: mauacruz@gmail.com </br>
+twitter: @nanonpira </br>
+linkedin: [Mauricio Arruda Cruz](linkedin.com/in/mauricio-arruda-cruz-30258223)
 
