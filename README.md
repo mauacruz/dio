@@ -35,5 +35,5 @@ E como contatos:
 
 email: mauacruz@gmail.com </br>
 twitter: @nanonpira </br>
-linkedin: [Mauricio Arruda Cruz](linkedin.com/in/mauricio-arruda-cruz-30258223)
+linkedin: [linkedin.com/in/mauricio-arruda-cruz-30258223](https://www.linkedin.com/in/mauricio-arruda-cruz-30258223/)
 
