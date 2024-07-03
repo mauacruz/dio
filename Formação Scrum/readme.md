@@ -2,7 +2,7 @@
 
 O desafio "Completando o Framework Scrum" propôs o preenchimento de esquemas disponibilizado com base no framework Scrum.
 
-![Framework](Formação Scrum/desafio_de_projeto_scrum_framework.jpg)
+[Framework](https://github.com/mauacruz/dio/blob/2511bcf855704521d9731255b3d15371b3ffbb69/Forma%C3%A7%C3%A3o%20Scrum/desafio_de_projeto_scrum_framework.jpg)
 
 [Miro - Esquemas](https://miro.com/welcomeonboard/YWZCU3lXNm10djRpMHhoSnlUM1gxV3ltWVI1alFMejhIY0NTYVJGVXcyTWdUUG5rbEFrRTFFNTZKU2haTzhlU3wzNDU4NzY0NTg3Mjg5NjYyMjAzfDI=?share_link_id=53093697390)
 
